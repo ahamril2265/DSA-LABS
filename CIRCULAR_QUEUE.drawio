@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2217" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="1424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -305,6 +305,18 @@
             <mxPoint x="1260" y="810" as="sourcePoint" />
             <mxPoint x="1260" y="40" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m0yqc0ZqAOgkQVBwfx54-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CHOICE = 1" vertex="1">
+          <mxGeometry height="30" width="74" x="280" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="m0yqc0ZqAOgkQVBwfx54-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CHOICE = 2" vertex="1">
+          <mxGeometry height="30" width="74" x="333" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="m0yqc0ZqAOgkQVBwfx54-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CHOICE = 3" vertex="1">
+          <mxGeometry height="30" width="74" x="440" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="m0yqc0ZqAOgkQVBwfx54-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CHOICE = 4" vertex="1">
+          <mxGeometry height="30" width="74" x="460" y="575" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
